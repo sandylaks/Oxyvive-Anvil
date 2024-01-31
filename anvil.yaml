@@ -37,6 +37,9 @@ db_schema:
     - name: pincode
       admin_ui: {width: 200}
       type: number
+    - name: test1
+      admin_ui: {width: 200, order: 7}
+      type: number
   book_slot:
     client: none
     server: full
