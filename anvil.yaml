@@ -6,7 +6,7 @@ services:
   server_config: {}
 package_name: Oxyvive
 allow_embedding: false
-name: Clone of Oxyvive
+name: Oxyvive
 runtime_options:
   version: 2
   client_version: '3'
